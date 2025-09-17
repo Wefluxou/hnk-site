@@ -2,22 +2,22 @@
 const products = [
   {
     name: "Rosa Unitária",
-    img: "assets/imagens/11.jpg",
+    img: "11.jpg",
     description: "Escolha a cor da rosa unitária e personalize do seu jeito!"
   },
   {
     name: "Buquê de Cetim",
-    img: "assets/imagens/1.png",
+    img: "1.png",
     description: "Escolha cores, tamanho e quantidade. Totalmente personalizável!"
   },
   {
     name: "Chaveiro de Cetim",
-    img: "assets/imagens/9.png",
+    img: "9.png",
     description: "Escolha cores, modelos e detalhes. Totalmente personalizável!"
   },
   {
     name: "Canetas Personalizadas",
-    img: "assets/imagens/canetas.jpg",
+    img: "canetas.jpg",
     description: "Crie do jeito que quiser: cores, textos e detalhes exclusivos."
   }
 ];
